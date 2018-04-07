@@ -11,7 +11,7 @@
 #### Quick Start
 
 ```shell
-$ git clone git@gitlab.com:azizka/flickr-embedding.git
+$ git clone git@gitlab.com:flickr-amex/flickr-embedding.git
 $ cd flickr-embedding
 $ yarn
 $ yarn start
